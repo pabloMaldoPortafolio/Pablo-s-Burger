@@ -47,6 +47,7 @@ MealOrder instanceName = new MealOrder();
 A Class is a template used to create objects and to define object data types and methods. First we create a class, then we can instantiate that class to create an Object which has allocated memory. We can create many Objects based on one class, and all of them will share the same methods and variables. One type of method used in classes is a constructor, a Constructors are used to create and initialize new objects in a class. Every class must have a constructor, either a default one provided by the Java compiler or a new one written for that class. A method is defined as a constructor when it has the same name as the class, we can have more than one constructor if we want. An example of a constructor is: 
 
 ```java
+//This is a constructor which will set the variables when the object is instantiated 
 public Item(String type,String name, double price){
     this.type = type;
     this.name = name;
