@@ -2,7 +2,7 @@
 
 <h1>Pablo’s Burger Description and Demo</h1>
 
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This is a tutorial about the basics of Oject Oriented Programming using Java.
 Before we start learning about Object Oriented Programming, let’s check what does the Pablo’s Burger code Does. 
 
 <p>Project Description: We want to create an application for our fast food restaurant. Every meal order will have 3 items, a hamburger, a drink and a side item. This application let us select the type of burger and add as many toppings as we want and give us the total price of a burger with the price. We can also set the size of the drink and adjust the price. This is a simple application that let us explore properties of Object-Oriented Programming.</p>
